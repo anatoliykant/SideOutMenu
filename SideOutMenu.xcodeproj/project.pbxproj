@@ -14,6 +14,9 @@
 		F5CDFA601C708A7F00D16ED1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5CDFA5E1C708A7F00D16ED1 /* LaunchScreen.storyboard */; };
 		F5CDFA6B1C708CA400D16ED1 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5CDFA6A1C708CA400D16ED1 /* SWRevealViewController.m */; };
 		F5CDFA6D1C70927100D16ED1 /* BackTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CDFA6C1C70927100D16ED1 /* BackTableVC.swift */; };
+		F5CDFA6F1C70A23100D16ED1 /* Hellow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CDFA6E1C70A23100D16ED1 /* Hellow.swift */; };
+		F5CDFA711C70A3D400D16ED1 /* Second.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CDFA701C70A3D400D16ED1 /* Second.swift */; };
+		F5CDFA731C70A4AA00D16ED1 /* World.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CDFA721C70A4AA00D16ED1 /* World.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +31,9 @@
 		F5CDFA691C708CA400D16ED1 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		F5CDFA6A1C708CA400D16ED1 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
 		F5CDFA6C1C70927100D16ED1 /* BackTableVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackTableVC.swift; sourceTree = "<group>"; };
+		F5CDFA6E1C70A23100D16ED1 /* Hellow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Hellow.swift; path = ../Hellow.swift; sourceTree = "<group>"; };
+		F5CDFA701C70A3D400D16ED1 /* Second.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Second.swift; sourceTree = "<group>"; };
+		F5CDFA721C70A4AA00D16ED1 /* World.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = World.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,8 +68,11 @@
 			children = (
 				F5CDFA671C708C4700D16ED1 /* Supporting Files */,
 				F5CDFA551C708A7F00D16ED1 /* AppDelegate.swift */,
+				F5CDFA6E1C70A23100D16ED1 /* Hellow.swift */,
 				F5CDFA571C708A7F00D16ED1 /* ViewController.swift */,
 				F5CDFA591C708A7F00D16ED1 /* Main.storyboard */,
+				F5CDFA721C70A4AA00D16ED1 /* World.swift */,
+				F5CDFA701C70A3D400D16ED1 /* Second.swift */,
 				F5CDFA6C1C70927100D16ED1 /* BackTableVC.swift */,
 				F5CDFA5C1C708A7F00D16ED1 /* Assets.xcassets */,
 				F5CDFA5E1C708A7F00D16ED1 /* LaunchScreen.storyboard */,
@@ -158,6 +167,9 @@
 				F5CDFA561C708A7F00D16ED1 /* AppDelegate.swift in Sources */,
 				F5CDFA6D1C70927100D16ED1 /* BackTableVC.swift in Sources */,
 				F5CDFA6B1C708CA400D16ED1 /* SWRevealViewController.m in Sources */,
+				F5CDFA6F1C70A23100D16ED1 /* Hellow.swift in Sources */,
+				F5CDFA731C70A4AA00D16ED1 /* World.swift in Sources */,
+				F5CDFA711C70A3D400D16ED1 /* Second.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +324,7 @@
 				F5CDFA661C708A7F00D16ED1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
